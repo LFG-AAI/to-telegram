@@ -1,3 +1,18 @@
+| **Fitur**           | **Deskripsi**                                                                 |
+|---------------------|---------------------------------------------------------------------------------|
+| **Info**            | Menampilkan informasi tentang bot dan fitur-fitur yang tersedia.                |
+| **Create Repo**     | Membuat repositori baru di GitHub dengan nama yang diberikan.                    |
+| **List Repos**      | Menampilkan daftar repositori GitHub yang dimiliki oleh pengguna.                |
+| **Delete Repo**     | Menghapus repositori dari GitHub dengan nama yang diberikan.                     |
+| **Edit File**       | Mengedit konten file di repositori GitHub yang ditentukan.                        |
+| **Repo Link**       | Menampilkan link ke repositori GitHub yang ditentukan.                           |
+| **List Local Folders** | Menampilkan daftar folder dan file di direktori lokal yang telah ditentukan.   |
+| **Upload File**     | Mengunggah file dari folder lokal ke repositori GitHub yang dipilih.              |
+| **Upload Folder**   | Mengunggah seluruh folder dari folder lokal ke repositori GitHub yang dipilih.    |
+| **Delete Folder**   | Menghapus folder dari direktori lokal yang ditentukan.                            |
+| **Handle File**     | Mengunggah file yang dikirim melalui Telegram ke repositori GitHub default.      |
+
+
 | Langkah | Deskripsi |
 |---------|-----------|
 | **1.**  | **Install Python**: Unduh dan instal Python dari [python.org](https://www.python.org/downloads/). |
